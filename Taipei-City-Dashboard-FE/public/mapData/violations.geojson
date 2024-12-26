@@ -1,0 +1,165 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.564468, 25.033964]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-26T14:30:00",
+				"Location": "台北市士林區仰德大道2段29巷",
+				"Limit_Speed": 40,
+				"Car_Speed": 83,
+				"Device_ID": 111,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars11.png",
+				"Car_Number": "WOR-516K"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.549893, 25.018295]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-26T15:00:00",
+				"Location": "台北市大安區辛亥路3段157巷",
+				"Limit_Speed": 40,
+				"Car_Speed": 70,
+				"Device_ID": 112,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars14.png",
+				"Car_Number": "ALR-486"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.533755, 25.020565]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-26T17:00:00",
+				"Location": "台北市大安區新生南路3段58號",
+				"Limit_Speed": 50,
+				"Car_Speed": 90,
+				"Device_ID": 113,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars80.png",
+				"Car_Number": "BAD_231"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.496945, 25.130626]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-27T11:00:02",
+				"Location": "台北市北投區大業路412號",
+				"Limit_Speed": 60,
+				"Car_Speed": 80,
+				"Device_ID": 114,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars7.png",
+				"Car_Number": "YSX-213"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.590252, 25.074426]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-27T18:05:00",
+				"Location": "台北市內湖區成功路2段373號",
+				"Limit_Speed": 50,
+				"Car_Speed": 96,
+				"Device_ID": 115,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars13.png",
+				"Car_Number": "BJR-216"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.600351, 25.0779]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-27T19:15:01",
+				"Location": "台北市內湖區金湖路200號",
+				"Limit_Speed": 50,
+				"Car_Speed": 85,
+				"Device_ID": 116,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars19.png",
+				"Car_Number": "AFR-2011"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54522, 25.108595]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-28T10:30:05",
+				"Location": "台北市士林區仰德大道2段115巷",
+				"Limit_Speed": 50,
+				"Car_Speed": 75,
+				"Device_ID": 117,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars54.png",
+				"Car_Number": "LTM-378"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50256, 25.114492]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-28T13:45:06",
+				"Location": "台北市北投區立賢路101號",
+				"Limit_Speed": 50,
+				"Car_Speed": 92,
+				"Device_ID": 118,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars173.png",
+				"Car_Number": "WMY-9051"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.538997, 25.001557]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-28T21:22:07",
+				"Location": "台北市文山區羅斯福路5段240號",
+				"Limit_Speed": 50,
+				"Car_Speed": 77,
+				"Device_ID": 119,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars252.png",
+				"Car_Number": "DAN-54P"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.540394, 24.989987]
+			},
+			"properties": {
+				"Violation_Time": "2024-12-29T08:28:08",
+				"Location": "台北市文山區羅斯福路6段469巷",
+				"Limit_Speed": 50,
+				"Car_Speed": 88,
+				"Device_ID": 120,
+				"Picture": "/Users/liyunyun/Desktop/Images/Cars309.png",
+				"Car_Number": "EAB-0001"
+			}
+		}
+	]
+}
