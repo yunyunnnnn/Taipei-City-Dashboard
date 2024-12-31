@@ -1,0 +1,1905 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-01T05:46:02",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 75,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars126.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-06T19:04:36",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars181.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-07T10:37:27",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 67,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars69.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-16T02:39:16",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars99.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-20T03:26:13",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars193.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-01-27T05:44:07",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 65,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars10.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-06T20:04:02",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 70,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars165.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-09T22:41:12",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars136.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-10T17:10:01",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 72,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars199.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-15T00:33:08",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars85.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-19T16:36:39",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 70,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars120.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-20T10:28:45",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars37.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-20T23:28:53",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars58.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-23T06:25:28",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 69,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars147.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-23T09:14:53",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars31.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-25T00:30:18",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 80,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars126.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-02-25T18:04:29",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars140.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-01T23:58:12",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 70,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars13.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-04T05:42:54",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 78,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars152.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-05T07:21:29",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars4.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-05T10:14:11",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 72,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars64.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-11T18:31:03",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars45.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-03-16T10:30:28",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars45.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-04-02T17:21:03",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 62,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars31.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-04-07T03:21:18",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars119.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-04-14T16:00:06",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 73,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars53.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-04-22T11:07:15",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars33.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-01T04:17:58",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 96,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars72.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-02T14:12:25",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars23.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-04T07:01:49",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 64,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars94.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-16T22:50:07",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars157.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-22T16:16:42",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 75,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars173.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-05-27T05:46:41",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 63,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars179.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-05T12:50:33",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars10.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-10T13:54:37",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars142.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-11T19:06:20",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 62,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars36.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-11T19:25:34",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars97.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-12T19:02:23",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 76,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars164.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-18T18:23:22",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars125.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-06-26T18:24:09",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars102.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-02T00:25:46",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 72,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars68.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-04T00:39:10",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 79,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars58.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-05T13:43:11",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars88.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-07T00:34:56",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 65,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars72.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-09T11:41:32",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars12.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-20T05:02:02",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 75,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars14.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-21T09:51:32",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars32.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-22T10:01:22",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars47.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-24T07:09:50",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 68,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars198.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-25T06:53:31",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars86.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-07-25T17:03:44",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 74,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars38.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-03T17:31:03",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 78,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars154.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-05T23:15:25",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars118.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-08T23:19:43",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 80,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars106.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-16T01:07:03",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 96,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars27.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-22T02:52:03",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars126.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-08-29T07:57:59",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 70,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars140.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-01T18:32:55",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars63.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-11T02:48:59",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 79,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars63.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-11T04:51:11",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 64,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars118.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-11T18:44:14",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 72,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars153.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-19T07:01:11",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars10.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-25T22:59:23",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 76,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars158.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-26T05:04:54",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 74,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars108.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-09-27T10:29:24",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars57.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-03T23:35:59",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars15.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.50256,
+                    25.114492
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-04T13:49:49",
+                "Location": "台北市北投區立賢路101號",
+                "Limit_Speed": 50,
+                "Car_Speed": 80,
+                "Device_ID": 118,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars161.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-13T03:42:24",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars118.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-14T05:24:56",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 78,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars84.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-14T23:03:58",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars44.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-17T10:26:32",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars153.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-17T23:44:33",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 62,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars22.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-18T20:36:23",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 70,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars143.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-25T15:28:47",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars151.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-10-28T19:57:33",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 63,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars107.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-02T09:36:24",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars148.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-02T16:34:05",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars125.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-04T17:28:25",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 76,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars170.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-07T05:36:54",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars136.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-11T21:58:20",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 79,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars132.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-12T10:50:43",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 95,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars194.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-15T13:14:48",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 62,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars119.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-15T14:20:39",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 96,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars156.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.54522,
+                    25.108595
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-17T14:05:25",
+                "Location": "台北市士林區仰德大道2段115巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 96,
+                "Device_ID": 117,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars87.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538997,
+                    25.001557
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-18T13:57:15",
+                "Location": "台北市文山區羅斯福路5段240號",
+                "Limit_Speed": 50,
+                "Car_Speed": 69,
+                "Device_ID": 119,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars97.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-23T21:20:05",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 63,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars48.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-28T16:14:44",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars146.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-28T23:34:39",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 61,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars157.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-11-29T21:34:40",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 91,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars49.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-01T16:10:04",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 69,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars179.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600351,
+                    25.0779
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-02T18:49:50",
+                "Location": "台北市內湖區金湖路200號",
+                "Limit_Speed": 50,
+                "Car_Speed": 92,
+                "Device_ID": 116,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars113.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496945,
+                    25.130626
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-04T17:11:19",
+                "Location": "台北市北投區大業路412號",
+                "Limit_Speed": 50,
+                "Car_Speed": 74,
+                "Device_ID": 114,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars154.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-05T01:06:32",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 96,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars74.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-07T12:16:30",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars45.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-07T20:45:41",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 94,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars48.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-12T00:55:08",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 80,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars191.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533755,
+                    25.020565
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-12T03:41:47",
+                "Location": "台北市大安區新生南路3段58號",
+                "Limit_Speed": 50,
+                "Car_Speed": 78,
+                "Device_ID": 113,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars54.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549893,
+                    25.018295
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-13T00:00:16",
+                "Location": "台北市大安區辛亥路3段157巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 93,
+                "Device_ID": 112,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars32.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590252,
+                    25.074426
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-16T00:12:48",
+                "Location": "台北市內湖區成功路2段373號",
+                "Limit_Speed": 50,
+                "Car_Speed": 72,
+                "Device_ID": 115,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars127.png",
+                "speed_category": "超速 >= 10km/h"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564468,
+                    25.033964
+                ]
+            },
+            "properties": {
+                "Violation_Time": "2024-12-16T03:12:05",
+                "Location": "台北市士林區仰德大道2段29巷",
+                "Limit_Speed": 50,
+                "Car_Speed": 97,
+                "Device_ID": 111,
+                "Picture": "/Users/liyunyun/Desktop/Images/Cars184.png",
+                "speed_category": "嚴重超速 >= 40km/h"
+            }
+        }
+    ]
+}
